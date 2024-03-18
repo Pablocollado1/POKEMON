@@ -1,0 +1,77 @@
+.titulo{
+    color: rgb(60, 60, 240);  
+    cursor: pointer; 
+    text-align: center; 
+    font-family: "Abril Fatface", serif;
+}
+
+.Roselia {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+
+.EnlaceR {
+    color: rgb(62, 255, 3); 
+    text-decoration: none; 
+    font-family: "Staatliches", sans-serif;
+    font-size: 48px
+}
+
+.EnlaceRO {
+    color: rgb(109, 55, 46); 
+    text-decoration: none; 
+    font-family: "Staatliches", sans-serif;
+    font-size: 48px
+
+}
+
+.EnlaceE {
+    color: rgb(93, 87, 86); 
+    text-decoration: none; 
+    font-family: "Staatliches", sans-serif;
+    font-size: 48px
+
+}
+
+img {
+    margin: 0; 
+}
+
+.derecha {
+    float: right; 
+    width: 100px; 
+    height: auto; 
+    }
+
+.estilosmargen {
+    right: 0%;
+    top: 80%;
+}
+
+.titanoneregular {
+    color: rgb(13, 91, 13);
+    font-family: "Abril Fatface", serif;
+    font-size: 45px;
+    font-style: normal;
+  }
+
+  .titanoneregular2 {
+    color: rgb(81, 9, 9);
+    font-family: "Abril Fatface", serif;
+    font-size: 45px;
+    font-style: normal;
+
+  }
+  
+
+  .titanoneregular3 {
+    color: white;
+    font-family: "Abril Fatface", serif;
+    font-size: 45px;
+    font-style: normal;
+
+  }
+  
+
